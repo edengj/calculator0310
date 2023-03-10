@@ -3,5 +3,6 @@ public class Comparemin {
     public int Compare(int a, int b){
        i = Math.min(a, b);
         return i;
+        
     }
 }
